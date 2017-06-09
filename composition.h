@@ -14,6 +14,9 @@ const int N = 10;
 // };
 
 
+//12312312321
+
+
 class CompositionHelper {
 public:
 	// static vector<vector<int> > comps;
