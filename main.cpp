@@ -7,9 +7,7 @@ using namespace std;
 
 int main() {
 
-	printf("Commit B\n");
-
-
+	printf("Commit A/B\n");
 
 	freopen("z.in", "r", stdin);
 	generate_partitions();
