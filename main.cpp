@@ -6,6 +6,11 @@
 using namespace std;
 
 int main() {
+
+	printf("Commit B\n");
+
+
+
 	freopen("z.in", "r", stdin);
 	generate_partitions();
 	polynom p = polynom_reader::parse_polynom("(1 + a * b) * (1 + a * c) * (1 + b * c)");
